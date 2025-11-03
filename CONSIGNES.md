@@ -218,19 +218,6 @@ Conventions de code du projet (référence interne, à appliquer dans tout code 
 // Afficher un toast de notification
 ```
 
-## 🎁 Bonus (facultatif)
-
-Si vous terminez en avance, vous pouvez implémenter ces fonctionnalités bonus :
-
-### Bonus 1 - Assignation multiple (5 points)
-✅ **Déjà implémenté** : Permettre d'assigner plusieurs utilisateurs à une tâche
-
-### Bonus 2 - Système de commentaires (5 points)
-✅ **Déjà implémenté** : Ajouter des commentaires sur les tâches avec temps réel
-
-### Bonus 3 - Mode sombre (3 points)
-✅ **Déjà implémenté** : Basculer entre thème clair et sombre
-
 ## 📝 Conseils
 
 1. **Suivez l'ordre des parties** : Configuration → Schéma → Resolvers → Client
