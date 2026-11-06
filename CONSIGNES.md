@@ -258,6 +258,14 @@ npm run dev
 
 Le client démarre sur `http://localhost:5173`
 
+## 🚫 Règles
+
+- **L'utilisation d'outils d'IA générative est strictement interdite** pendant l'évaluation
+  (GitHub Copilot, ChatGPT, Claude, Cursor, Gemini, etc.), y compris l'autocomplétion IA de l'éditeur.
+  Pensez à désactiver ces extensions avant de commencer.
+- Les documentations officielles (Apollo, Graphene, GraphQL) et les supports du cours sont autorisés.
+- Tout code dont l'origine IA est avérée sera considéré comme une fraude.
+
 ## 📦 Livrables
 
 - Code source complet avec tous les TODO implémentés

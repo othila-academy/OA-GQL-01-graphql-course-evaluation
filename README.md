@@ -154,6 +154,7 @@ Utilisez ces comptes pour vous connecter :
 3. Utilisez les TODO dans le code comme guide
 4. N'hésitez pas à consulter la documentation Apollo
 5. Pensez à gérer les erreurs
+6. ⚠️ L'usage de l'IA est interdit (voir [CONSIGNES.md](./CONSIGNES.md))
 
 ## 📖 Ressources utiles
 
